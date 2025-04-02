@@ -1,0 +1,14 @@
+.searchBar{
+
+    height: 40px;
+    width: 50vw;
+    border-radius: 100px;
+    background-color: rgb(180, 180, 180);
+    display: flex;
+    align-items: center;
+}
+
+.placeholder{
+    margin-left: 20px;
+    color: grey;
+}
